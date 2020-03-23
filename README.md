@@ -4,7 +4,7 @@
 
 **Version 1.0.0**
 
-This is the source code for the [SealPass](www.ala-eddine-chahi.fr/index.html) Sealpass web application's extension.
+This is the source code for the [SealPass](www.ala-eddine-chahi.fr/index.html) web application's extension.
 
 ## License & copyright
 
